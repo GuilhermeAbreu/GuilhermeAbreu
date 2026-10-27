@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Mobile & Full Stack</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Mobile &amp; Full Stack</text>
         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Ionic · Angular · Capacitor · React · Laravel</text>
       </svg>
     
