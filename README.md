@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:a78bfa&height=220&section=header&text=Mobile%20%26%20Full%20Stack&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=apps%20que%20funcionam%20at%C3%A9%20sem%20internet&descSize=20&descAlignY=58&animation=fadeIn" alt="Mobile & Full Stack: apps que funcionam até sem internet" />
+<img width="100%" src="assets/header.svg" alt="Mobile & Full Stack: Ionic, Angular, Capacitor, React e Laravel" />
 
 <div align="center">
 
 <a href="https://guilhermeabreu.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Fa%C3%A7o+apps+que+funcionam+sem+internet+%F0%9F%93%A1;Ionic+%C2%B7+Angular+%C2%B7+Capacitor+%C2%B7+React;Plugins+nativos+em+Java%2C+Kotlin+e+Swift;Autor+do+capacitor-orm-sqlite+%F0%9F%93%A6;Hoje+na+Drakkar%2C+app+de+campo+%F0%9F%9A%9C" alt="Frases animadas sobre o Guilherme" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+%26+Full+Stack+%F0%9F%9A%80;Do+app+ao+back-end%2C+de+ponta+a+ponta+%F0%9F%94%A7;Plugins+nativos+em+Java%2C+Kotlin+e+Swift;Autor+do+capacitor-orm-sqlite+%F0%9F%93%A6;Hoje+na+Drakkar%2C+app+de+campo+%F0%9F%9A%9C" alt="Frases animadas sobre o Guilherme" />
 </a>
 
 <br />
@@ -102,4 +102,4 @@ Dev desde 2021, mexendo com tecnologia desde 2018. Comecei com PHP, passei por s
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6d28d9,100:4c1d95&height=120&section=footer" alt="" />
+<img width="100%" src="assets/footer.svg" alt="" />
