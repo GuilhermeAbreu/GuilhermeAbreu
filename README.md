@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<b>🇧🇷 Português</b> · <a href="README.en.md">🇺🇸 English</a>
+
 <a href="https://guilhermeabreu.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+%26+Full+Stack+%F0%9F%9A%80;Do+app+ao+back-end%2C+de+ponta+a+ponta+%F0%9F%94%A7;Plugins+nativos+em+Java%2C+Kotlin+e+Swift;Autor+do+capacitor-orm-sqlite+%F0%9F%93%A6;Hoje+na+Drakkar%2C+app+de+campo+%F0%9F%9A%9C" alt="Frases animadas sobre o Guilherme" />
 </a>
