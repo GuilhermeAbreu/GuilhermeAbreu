@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:a78bfa&height=220&section=header&text=Guilherme%20Abreu&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Mobile%20%26%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Guilherme Abreu" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:a78bfa&height=220&section=header&text=Mobile%20%26%20Full%20Stack&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=apps%20que%20funcionam%20at%C3%A9%20sem%20internet&descSize=20&descAlignY=58&animation=fadeIn" alt="Mobile & Full Stack: apps que funcionam até sem internet" />
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Dev desde 2021, mexendo com tecnologia desde 2018. Comecei com PHP, passei por s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAbreu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAbreu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&locale=pt-br" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAbreu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&locale=pt-br" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=GuilhermeAbreu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&locale=pt_BR" alt="Sequência de contribuições" />
